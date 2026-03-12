@@ -30,7 +30,7 @@ The analysis followed these steps:
 
 Top 10 most expensive neighborhoods for Airbnb entire homes in Madrid:
 
-![Top 10 Airbnb Prices](top10_airbnb_prices_madrid.png)
+![Top 10 Airbnb Prices](outputs/top10_airbnb_prices_madrid.png)
 
 ## Tools Used
 
