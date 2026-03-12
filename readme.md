@@ -9,7 +9,7 @@ The analysis focuses on understanding price distribution across neighborhoods wh
 Source: Inside Airbnb – Madrid listings dataset.
 
 ## Project Structure
-'''
+```
 madrid-airbnb-data-analysis
 │
 ├── data 
@@ -24,7 +24,7 @@ madrid-airbnb-data-analysis
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-'''
+```
 ### Folder Description
 
 - **data/**: raw dataset used in the analysis  
