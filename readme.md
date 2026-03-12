@@ -8,6 +8,30 @@ The analysis focuses on understanding price distribution across neighborhoods wh
 ## Dataset
 Source: Inside Airbnb – Madrid listings dataset.
 
+## Project Structure
+
+madrid-airbnb-data-analysis
+│
+├── data 
+│   └── listings.csv
+│
+├── notebook
+│   └── madrid_airbnb_analysis.ipynb
+│
+├── outputs
+│   └── top10_airbnb_prices_madrid.png
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
+
+### Folder Description
+
+- **data/**: raw dataset used in the analysis  
+- **notebook/**: Jupyter notebook containing the full analysis workflow  
+- **outputs/**: generated visualizations from the analysis  
+- **requirements.txt**: Python dependencies required to run the project  
+
 ## Methodology
 The analysis followed these steps:
 
